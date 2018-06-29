@@ -1,0 +1,20 @@
+h1{
+  color: red;
+  font-family: fantasy;
+  font-style: italic;
+  align-items: center;
+}
+h2{
+  color: orange;
+  align: center;
+}
+
+body{
+  background-attachment: fixed;
+  background-image:url(../image/rider.jpg);
+}
+
+img{
+  height: 50%;
+  width: 45%;
+}
